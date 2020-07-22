@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\김강호\Desktop\winAPI\14_리스트박스3\14_리스트박스3\main.cpp(77,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  14_리스트박스3.vcxproj -> C:\Users\김강호\Desktop\winAPI\14_리스트박스3\Debug\14_리스트박스3.exe
