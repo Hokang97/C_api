@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\김강호\Desktop\winAPI\18_스크롤바\18_스크롤바\main.cpp(69,12): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  18_스크롤바.vcxproj -> C:\Users\김강호\Desktop\winAPI\18_스크롤바\Debug\18_스크롤바.exe
