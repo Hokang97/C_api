@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "27_더블버퍼링", "27_더블버퍼링\27_더블버퍼링.vcxproj", "{33FA8210-CA06-4815-89E8-D1B36D6E8E04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33FA8210-CA06-4815-89E8-D1B36D6E8E04}.Debug|x64.ActiveCfg = Debug|x64
+		{33FA8210-CA06-4815-89E8-D1B36D6E8E04}.Debug|x64.Build.0 = Debug|x64
+		{33FA8210-CA06-4815-89E8-D1B36D6E8E04}.Debug|x86.ActiveCfg = Debug|Win32
+		{33FA8210-CA06-4815-89E8-D1B36D6E8E04}.Debug|x86.Build.0 = Debug|Win32
+		{33FA8210-CA06-4815-89E8-D1B36D6E8E04}.Release|x64.ActiveCfg = Release|x64
+		{33FA8210-CA06-4815-89E8-D1B36D6E8E04}.Release|x64.Build.0 = Release|x64
+		{33FA8210-CA06-4815-89E8-D1B36D6E8E04}.Release|x86.ActiveCfg = Release|Win32
+		{33FA8210-CA06-4815-89E8-D1B36D6E8E04}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {325D57EC-DEEA-4AF6-9118-B4D276EAC000}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\김강호\Desktop\winAPI\28_리소스\28_리소스\main.cpp(118,16): warning C4778: 'fwscanf' : 서식 문자열 '%'이(가) 종결되지 않았습니다.
+  28_리소스.vcxproj -> C:\Users\김강호\Desktop\winAPI\28_리소스\Debug\28_리소스.exe
