@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\EntryPoint">
+      <UniqueIdentifier>{7ea2dd3c-1dc9-46f9-83c9-55c10823f0c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\FrameWork">
+      <UniqueIdentifier>{fbdb2c7b-f80c-4128-9c48-27f1a121c18e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\FrameWork\GameDirector">
+      <UniqueIdentifier>{d86312a2-b36e-4723-8727-877b3918dc0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\FrameWork\PrepareWnd">
+      <UniqueIdentifier>{565c8205-aa4a-4a76-9326-0e1b38c6ef3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\FrameWork\WrappedWnd">
+      <UniqueIdentifier>{29681a39-decd-459c-b1b4-2272b01e19a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\FrameWork\Scene">
+      <UniqueIdentifier>{480d77e5-7c36-4c70-ac1e-0944684106b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\FrameWork\SceneManager">
+      <UniqueIdentifier>{745a57d3-420e-4986-97fd-3cc840301006}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\FrameWork\Scene\AbstractClass">
+      <UniqueIdentifier>{c51a6a98-2bc8-4796-8a9c-694e90304f64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\FrameWork\Bitmap">
+      <UniqueIdentifier>{359f3de2-8b21-409e-a588-2edcc3f70044}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\FrameWork\Scene\FirstScene">
+      <UniqueIdentifier>{03b5faaa-8b79-4853-82ec-cf50b44ac5f0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GameDirector.cpp">
+      <Filter>소스 파일\FrameWork\GameDirector</Filter>
+    </ClCompile>
+    <ClCompile Include="Bitmap.cpp">
+      <Filter>소스 파일\FrameWork\Bitmap</Filter>
+    </ClCompile>
+    <ClCompile Include="FirstScene.cpp">
+      <Filter>소스 파일\FrameWork\Scene\FirstScene</Filter>
+    </ClCompile>
+    <ClCompile Include="WrappedWnd.cpp">
+      <Filter>소스 파일\FrameWork\WrappedWnd</Filter>
+    </ClCompile>
+    <ClCompile Include="PrepareWnd.cpp">
+      <Filter>소스 파일\FrameWork\PrepareWnd</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일\EntryPoint</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>소스 파일\FrameWork\SceneManager</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GameDirector.h">
+      <Filter>소스 파일\FrameWork\GameDirector</Filter>
+    </ClInclude>
+    <ClInclude Include="Bitmap.h">
+      <Filter>소스 파일\FrameWork\Bitmap</Filter>
+    </ClInclude>
+    <ClInclude Include="FirstScene.h">
+      <Filter>소스 파일\FrameWork\Scene\FirstScene</Filter>
+    </ClInclude>
+    <ClInclude Include="WrappedWnd.h">
+      <Filter>소스 파일\FrameWork\WrappedWnd</Filter>
+    </ClInclude>
+    <ClInclude Include="PrepareWnd.h">
+      <Filter>소스 파일\FrameWork\PrepareWnd</Filter>
+    </ClInclude>
+    <ClInclude Include="GameDefine.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>소스 파일\FrameWork\SceneManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>소스 파일\FrameWork\Scene\AbstractClass</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneDefine.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
