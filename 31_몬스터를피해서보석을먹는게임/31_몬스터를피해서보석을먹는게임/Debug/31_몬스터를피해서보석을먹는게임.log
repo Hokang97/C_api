@@ -1,0 +1,6 @@
+﻿  Gem.cpp
+C:\Users\김강호\Desktop\winAPI\31_몬스터를피해서보석을먹는게임\31_몬스터를피해서보석을먹는게임\Gem.cpp(27,23): warning C4838: 'DWORD'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\김강호\Desktop\winAPI\31_몬스터를피해서보석을먹는게임\31_몬스터를피해서보석을먹는게임\Gem.cpp(27,31): warning C4838: 'DWORD'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\김강호\Desktop\winAPI\31_몬스터를피해서보석을먹는게임\31_몬스터를피해서보석을먹는게임\Gem.cpp(27,42): warning C4838: 'DWORD'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\김강호\Desktop\winAPI\31_몬스터를피해서보석을먹는게임\31_몬스터를피해서보석을먹는게임\Gem.cpp(27,62): warning C4838: 'DWORD'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+  31_몬스터를피해서보석을먹는게임.vcxproj -> C:\Users\김강호\Desktop\winAPI\31_몬스터를피해서보석을먹는게임\Debug\31_몬스터를피해서보석을먹는게임.exe
